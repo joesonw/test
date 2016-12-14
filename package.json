@@ -1,0 +1,24 @@
+{
+  "name": "@webgl/test",
+  "version": "0.1.0",
+  "description": "webgl-component test utils",
+  "main": "dist/index.js",
+  "typings": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc -p tsconfig.json"
+  },
+  "author": "Qiaosen Huang",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "0.0.2",
+    "canvas": "^1.6.2",
+    "gl": "^4.0.2"
+  },
+  "keywords": [
+    "webgl",
+    "test",
+    "unit test",
+    "unit-test",
+    "gl"
+  ]
+}
